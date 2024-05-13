@@ -1,0 +1,149 @@
+body{
+    font-size: 30px;
+    background-color: pink;
+   
+}
+
+
+
+#countLabel{
+    width: 35%;
+    display: block;
+    text-align: center;
+    font-size: 60px;
+}
+
+#decreaseBtn{
+    font-size: 40px;
+}
+
+#resetBtn{
+    font-size: 40px;
+}
+
+#increaseBtn{
+    font-size: 40px;
+
+}
+
+.chomo{
+    text-align: center;
+    float: right;
+}
+
+.dickrider{
+    text-align: center;
+    float: right;
+}
+
+.cunt{
+    text-align: center;
+    float: right;
+
+}
+
+#myDiv{
+    background-color: lightgreen;
+    width: 100px;
+    height: 100px;
+}
+
+#myDivv{
+    background-color: lightgreen;
+    width: 100px;
+    height: 100px;
+}
+
+#div1{
+    background-color: lightgreen;
+    width: 100px;
+    height: 100px; 
+}
+
+#diV{
+    background-color: lightgreen;
+    width: 200px;
+    height: 200px;
+    
+}
+
+#diVV{
+    background-color: lightgreen;
+    width: 100px;
+    height: 110px;
+    border: 1px solid;
+}
+
+#outter{
+    background-color: lightgreen;
+    width: 200px;
+    height: 200px;
+    border: 1px solid;
+}
+
+#inner{
+    background-color: lightgreen;
+    width: 100px;
+    height: 110px;
+    border: 1px solid;
+}
+
+#pinkman{
+    width: 300px;
+}
+
+#square{
+    background-color: lightgreen;
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    position: relative;
+}
+
+#square2{
+    background-color: lightgreen;
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    position: relative;
+}
+
+#square3{
+    background-color: lightgreen;
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    position: relative;
+}
+
+#square4{
+    background-color: lightgreen;
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    position: relative;
+}
+
+#square5{
+    background-color: lightgreen;
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    position: relative;
+}
+
+#square6{
+    background-color: lightgreen;
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    position: relative;
+}
+
+#square7{
+    background-color: lightgreen;
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    position: relative;
+}
